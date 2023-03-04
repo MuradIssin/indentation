@@ -1,0 +1,44 @@
+.total {
+  padding-top: 50px;
+}
+
+.total__border {
+  background-color: #F1F1F1;
+  border-radius: 10px;
+  padding-left: 45px;
+  padding-top: 25px;
+  padding-bottom: 1px;
+  margin-bottom: 50px;
+}
+
+.total__title {
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 53px;
+  font-style: bold;
+  margin-bottom: 20px;
+}
+
+.total__item {
+  font-size: 20px;
+  line-height: 24px;
+  font-style: normal;
+  margin-bottom: 10px;
+  list-style-position: inside;
+  list-style-type: "—";
+}
+
+.total__item::before {
+  content: " ";
+}
+
+.total__item:last-child {
+  margin-bottom: 0;
+}
+
+.total__text {
+  padding-top: 30px;
+  margin-bottom: 25px;
+  font-size: 20px;
+  line-height: 24px;
+}

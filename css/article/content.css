@@ -1,0 +1,35 @@
+.content {
+  padding-top: 50px;
+}
+
+.content__border {
+  background-color: #F1F1F1;
+  border-radius: 10px;
+  padding-left: 45px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+
+.content__title {
+  padding-top: 25px;
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 52px;
+  margin-bottom: 20px;
+}
+
+.content__link {
+  text-decoration: underline;
+  /* с подчеркиванием можно разбираться, но нужно ли это тут сейчас не понятно */
+  font-size: 20px;
+  line-height: 24px;
+  margin-bottom: 10px;
+}
+
+.content__link:last-child {
+  margin-bottom: 0;
+}
+
+.content__list {
+  margin-bottom: 25px;
+}
