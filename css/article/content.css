@@ -1,13 +1,10 @@
 .content {
-  padding-top: 50px;
-}
-
-.content__border {
   background-color: #F1F1F1;
   border-radius: 10px;
   padding-left: 45px;
   padding-top: 1px;
   padding-bottom: 1px;
+  margin-bottom: 50px;
 }
 
 .content__title {

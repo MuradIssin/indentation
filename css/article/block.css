@@ -1,11 +1,10 @@
 .block {
   padding-left: 30px;
-  /* width: 1080px; */
   width: 1110px;
+  margin-bottom: 50px;
 }
 
 .block__title {
-  padding-top: 50px;
   font-weight: 900;
   font-size: 36px;
   line-height: 43px;

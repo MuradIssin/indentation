@@ -1,15 +1,17 @@
-.discription {
-  padding-left: 30px;
-  width: 1080px;
-}
-
-.discription__title {
+.article__title {
   font-size: 60px;
   font-weight: 900;
   line-height: 72px;
   padding-top: 60px;
   margin-bottom: 30px;
   text-align: left;
+  padding-left: 30px;
+}
+
+.discription {
+  padding-left: 30px;
+  width: 1080px;
+  padding-bottom: 50px;
 }
 
 .discription__text {
